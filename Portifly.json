@@ -1,31 +1,59 @@
 {
-    "name":"Portifly-config",
-    
-    "details":{
-      "divisionName":"NodeJs Projects ", 
-      "subAddOnIcon":"/node.svg" ,
-      "subTitle":"Projects i've made while i was learning NodeJs, i mean this is a texting test", 
-      "projects":[
-        {
-          "projectName": "Test1",
-          "projectDescription":"Just Some API -- TEST1 \n", 
-          "source":"https://github.com/YnfanteY2799/Arrayfy-javascript",
-          "mainImg":"https://cdn.pixabay.com/photo/2020/02/29/09/27/chain-4889531_960_720.jpg", 
-          "secondImg":"/node.svg"
-        },
-        {
-            "projectName":"Test2", 
-            "projectDescription":"Just Some API -- TEST2 \n", 
-            "mainImg":"", 
-            "secondImg":"/node.svg"
-        },
-        {
-            "projectName":"Test3", 
-            "projectDescription":"Just Some API -- TEST3 \n", 
-            "mainImg":"", 
-            "secondImg":"/nodexpress.svg"
-        }
-      ]
-    }
-    
+	"name": "Portifly-config",
+
+	"details": [{
+			"divisionName": "NodeJs Projects ",
+			"subAddOnIcon": "/node.svg",
+			"subTitle": "Projects i've made while i was learning NodeJs, i mean this is a texting test",
+			"projects": [{
+					"projectName": "Test1",
+					"projectDescription": "Just Some API -- TEST1 \n",
+					"source": "https://github.com/YnfanteY2799/Arrayfy-javascript",
+					"mainImg": "https://cdn.pixabay.com/photo/2020/02/29/09/27/chain-4889531_960_720.jpg",
+					"secondImg": "/node.svg"
+				},
+				{
+					"projectName": "Test2",
+					"projectDescription": "Just Some API -- TEST2 \n",
+					"mainImg": "",
+					"secondImg": "/node.svg"
+				},
+				{
+					"projectName": "Test3",
+					"projectDescription": "Just Some API -- TEST3 \n",
+					"mainImg": "",
+					"secondImg": "/nodexpress.svg"
+				}
+			]
+		},
+		{
+			"divisionName": "Deno Projects ",
+			"subAddOnIcon": "/node.svg",
+			"subTitle": "Projects i've made while i was learning NodeJs, i mean this is a texting test",
+			"projects": [{
+					"projectName": "Test1",
+					"projectDescription": "Just Some API -- TEST1 \n",
+					"source": "https://github.com/YnfanteY2799/Arrayfy-javascript",
+					"mainImg": "https://cdn.pixabay.com/photo/2020/02/29/09/27/chain-4889531_960_720.jpg",
+					"secondImg": "/node.svg"
+				},
+				{
+					"projectName": "Test2",
+					"projectDescription": "Just Some API -- TEST2 \n",
+					"mainImg": "",
+					"secondImg": "/node.svg"
+				},
+				{
+					"projectName": "Test3",
+					"projectDescription": "Just Some API -- TEST3 \n",
+					"mainImg": "",
+					"secondImg": "/nodexpress.svg"
+				}
+			]
+		}
+
+
+
+	]
+
 }
