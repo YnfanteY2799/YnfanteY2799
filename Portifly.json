@@ -1,0 +1,10 @@
+{
+    "name":"Portifly-config",
+    
+    "details":{
+        "name":"NodeJs-Projects",
+        "projects":[
+            {"name":"Arrayfy"}
+        ]
+    }
+}
