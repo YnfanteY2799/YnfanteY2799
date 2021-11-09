@@ -6,7 +6,7 @@
 			"subAddOnIcon": "/node.svg",
 			"subTitle": "Projects i've made while i was learning NodeJs, i mean this is a texting test",
 			"projects": [{
-					"projectName": "Test1",
+					"projectName": "Arrayfy",
 					"projectDescription": "Just Some API -- TEST1 \n",
 					"source": "https://github.com/YnfanteY2799/Arrayfy-javascript",
 					"mainImg": "https://cdn.pixabay.com/photo/2020/02/29/09/27/chain-4889531_960_720.jpg",
