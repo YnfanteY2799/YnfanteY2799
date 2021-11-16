@@ -7,22 +7,24 @@
 			"subTitle": "Projects i've made while i was learning NodeJs, i mean this is a texting test",
 			"projects": [{
 					"projectName": "Arrayfy",
-					"projectDescription": "Just Some API -- TEST1 \n",
+					"projectDescription": "Javascript library for easing things with arrays and some other things i think Js has as issues",
 					"source": "https://github.com/YnfanteY2799/Arrayfy-javascript",
 					"mainImg": "https://cdn.pixabay.com/photo/2020/02/29/09/27/chain-4889531_960_720.jpg",
-					"secondImg": "/node.svg"
+					"secondImg": "/js.svg"
 				},
 				{
-					"projectName": "Testeando el Nun 2",
-					"projectDescription": "Just Some API -- TEST2 \n",
+					"projectName": "Portfolio",
+					"projectDescription": "This actual Project made with NextJs, and it's basically a portfolio automatizated with Github",
+					"source": "https://github.com/YnfanteY2799/Nextjs-PortFolio",
 					"mainImg": "",
-					"secondImg": "/node.svg"
+					"secondImg": "/nextjs.svg"
 				},
 				{
-					"projectName": "Test3",
-					"projectDescription": "Just Some API -- TEST3 \n",
+					"projectName": "Nhentai-Ws-Api",
+					"projectDescription": "A WebScrapping API made With Cheerio.",
+					"source": "https://github.com/YnfanteY2799/Nhentai-WS-API",
 					"mainImg": "",
-					"secondImg": "/nodexpress.svg"
+					"secondImg": "/node.svg"
 				}
 			]
 		},
