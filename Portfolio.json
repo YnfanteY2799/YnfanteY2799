@@ -20,15 +20,15 @@
   "aboutText": "I'm a Fullstack software developer with experience and preference for Javascript and Typescript, and expertise in frameworks like NextJs, Express, NodeJs and Many Others. I'm a quick learner and use to collaborate closely with clients to create the solution they need,so if you're interested in working with me you can contact me, otherwise if you are interested in me or want to know a little bit more about me click the arrow at the beggining of this section",
   "experiences": [
     {
-      "title": "React.js Developer",
-      "company_name": "Starbucks",
-      "icon": "",
+      "title": "Internship / Analist",
+      "company_name": "Banco Popular",
+      "icon": "popular",
       "iconBg": "#383E56",
-      "date": "March 2020 - April 2021",
+      "date": "2018 - 2019",
       "points": [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
+        "Projects automation with BPM de IBM.",
+        "Made efficient changes to existing financial flows of data.",
+        "Project documentation and query writting",
         "Participating in code reviews and providing constructive feedback to other developers."
       ]
     },
@@ -78,6 +78,7 @@
       "link": "https://www.linkedin.com/in/yassett-jose-ynfante-jimenez-7b7304153/",
       "icon": "Linkedin"
     },
-    { "link": "https://www.instagram.com/j_yassett/", "icon": "Instagram" }
+    { "link": "https://www.instagram.com/j_yassett/", "icon": "Instagram" },
+    { "link": "https://myanimelist.net/profile/Nobu-", "icon": "MyAnimeList" }
   ]
 }
