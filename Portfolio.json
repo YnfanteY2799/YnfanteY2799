@@ -71,5 +71,13 @@
         "Participating in code reviews and providing constructive feedback to other developers."
       ]
     }
+  ],
+  "socials": [
+    { "link": "https://github.com/YnfanteY2799", "icon": "Github" },
+    {
+      "link": "https://www.linkedin.com/in/yassett-jose-ynfante-jimenez-7b7304153/",
+      "icon": "Linkedin"
+    },
+    { "link": "https://www.instagram.com/j_yassett/", "icon": "Instagram" }
   ]
 }
