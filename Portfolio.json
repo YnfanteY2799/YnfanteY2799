@@ -17,18 +17,18 @@
       "icon": "watch"
     }
   ],
-  "aboutText": "I'm a Fullstack software developer with experience and preference for Javascript and Typescript, and expertise in frameworks like NextJs, Express, NodeJs and Many Others. I'm a quick learner and use to collaborate closely with clients to create the solution they need,so if you're interested in working with me you can contact me, otherwise if you are interested in me or want to know a little bit more about me click the arrow at the beggining of this section",
+  "aboutText": "I'm a Fullstack software developer with experience and preference for Javascript and Typescript, and expertise in frameworks like NextJs, Express, NodeJs and Many Others. I'm a quick learner and use to collaborate closely with clients to create the solution they need,so if you're interested in working with me you can contact me.",
   "experiences": [
     {
-      "title": "Internship / Analist",
-      "company_name": "Banco Popular",
-      "icon": "popular",
-      "iconBg": "#383E56",
-      "date": "2018 - 2019",
+      "title": "Front End Developer",
+      "company_name": "OGTIC",
+      "icon": "ogtic",
+      "iconBg": "#E6DEDD",
+      "date": "Nov 2021 - Jan 2023",
       "points": [
-        "Projects automation with IBM BPM Tool.",
-        "Made efficient changes to existing financial flows of data.",
-        "Project documentation and query writting",
+        "Developing and maintaining web applications using React.js and other related technologies.",
+        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Implementing responsive design and ensuring cross-browser compatibility.",
         "Participating in code reviews and providing constructive feedback to other developers."
       ]
     },
@@ -46,15 +46,15 @@
       ]
     },
     {
-      "title": "Front End Developer",
-      "company_name": "OGTIC",
-      "icon": "ogtic",
-      "iconBg": "#E6DEDD",
-      "date": "Nov 2021 - Jan 2023",
+      "title": "Internship / Analist",
+      "company_name": "Banco Popular",
+      "icon": "popular",
+      "iconBg": "#383E56",
+      "date": "2018 - 2019",
       "points": [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
+        "Projects automation with IBM BPM Tool.",
+        "Made efficient changes to existing financial flows of data.",
+        "Project documentation and query writting",
         "Participating in code reviews and providing constructive feedback to other developers."
       ]
     }
@@ -68,6 +68,10 @@
     { "link": "https://www.instagram.com/j_yassett/", "icon": "Instagram" },
     { "link": "https://myanimelist.net/profile/Nobu-", "icon": "MyAnimeList" },
     { "link": "https://dev.to/ynfantey2799", "icon": "DevTo" },
-    { "link": "https://twitter.com/YnfanteY2799", "icon": "Twitter" }
+    { "link": "https://twitter.com/YnfanteY2799", "icon": "Twitter" },
+    { "link": "https://www.codewars.com/users/Nobu-Nobu", "icon": "CodeWars" },
+    { "link": "https://leetcode.com/YnfanteY2799/", "icon": "LeetCode" },
+    { "link": "https://www.upwork.com/freelancers/~01c6dd9f459b799fc6", "icon": "UpWork" },
+    { "link": "https://www.freelancer.es/u/YjYnfante", "icon": "Freelance" }
   ]
 }
