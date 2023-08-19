@@ -84,6 +84,6 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=YnfanteY2799.YnfanteY2799&left_text=Welcome, you're the visitor # :"  />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=YnfanteY2799.YnfanteY2799&left_text=Welcome"  />
 
 ###
